@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>stars - Checkstyle report</title>
+    <link>${project.url}</link>
+    <description>stars - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2015</copyright>
+    <item>
+      <title>File: 10,
+             Errors: 76,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>${project.url}/checkstyle.html</link>
+      <description>
+        <p>Click <a href="${project.url}/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#main.java.edu.ncf.cs.David_Weinstein.kdTree.KDNode.java">main/java/edu/ncf/cs/David_Weinstein/kdTree/KDNode.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  24
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#main.java.edu.ncf.cs.David_Weinstein.kdTree.NodeDistancePair.java">main/java/edu/ncf/cs/David_Weinstein/kdTree/NodeDistancePair.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#main.java.edu.ncf.cs.David_Weinstein.kdTree.KDTree.java">main/java/edu/ncf/cs/David_Weinstein/kdTree/KDTree.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#main.java.edu.ncf.cs.David_Weinstein.WeinsteinStars.Star.java">main/java/edu/ncf/cs/David_Weinstein/WeinsteinStars/Star.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#main.java.edu.ncf.cs.David_Weinstein.WeinsteinStars.Main.java">main/java/edu/ncf/cs/David_Weinstein/WeinsteinStars/Main.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#main.java.edu.ncf.cs.David_Weinstein.csvReader.CSVReader.java">main/java/edu/ncf/cs/David_Weinstein/csvReader/CSVReader.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#main.java.edu.ncf.cs.David_Weinstein.WeinsteinStars.CommandHandler.java">main/java/edu/ncf/cs/David_Weinstein/WeinsteinStars/CommandHandler.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  25
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#main.java.edu.ncf.cs.David_Weinstein.csvReader.CSVReaderInterphase.java">main/java/edu/ncf/cs/David_Weinstein/csvReader/CSVReaderInterphase.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#test.java.edu.ncf.cs.David_Weinstein.kdTree.KDNodeTest.java">test/java/edu/ncf/cs/David_Weinstein/kdTree/KDNodeTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="${project.url}/checkstyle.html#main.java.edu.ncf.cs.David_Weinstein.kdTree.KDTreeTest.java">main/java/edu/ncf/cs/David_Weinstein/kdTree/KDTreeTest.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

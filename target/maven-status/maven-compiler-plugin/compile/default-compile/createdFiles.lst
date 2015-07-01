@@ -1,0 +1,13 @@
+edu/ncf/cs/David_Weinstein/kdTree/KDTree.class
+edu/ncf/cs/David_Weinstein/csvReader/CSVReaderInterphase.class
+edu/ncf/cs/David_Weinstein/WeinsteinStars/Star.class
+edu/ncf/cs/David_Weinstein/WeinsteinStars/Main.class
+edu/ncf/cs/David_Weinstein/kdTree/KDNode.class
+edu/ncf/cs/David_Weinstein/WeinsteinStars/Main$ExceptionPrinter.class
+edu/ncf/cs/David_Weinstein/csvReader/CSVReader.class
+edu/ncf/cs/David_Weinstein/WeinsteinStars/Main$GuiHandler.class
+edu/ncf/cs/David_Weinstein/WeinsteinStars/CommandHandler.class
+edu/ncf/cs/David_Weinstein/kdTree/NodeDistancePair.class
+edu/ncf/cs/David_Weinstein/WeinsteinStars/Main$1.class
+KDTreeTest.class
+edu/ncf/cs/David_Weinstein/WeinsteinStars/Main$1QueryHandler.class
