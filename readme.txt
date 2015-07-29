@@ -24,9 +24,3 @@ Answers to design questions
 I would add recognition for that command (eg a regular expression) to the CommandHandler class, functionality to the KDNode class, and the first call to that functionality to the KDTree class.
 
 Earth is curved, so the euclidean distance between two lat and long points doesn't map to the actual distance between those points. 
-
-Testing
-I haven't done tesing yet. 
-
-Explanations for any checkstyle errors your code has
-I have 76 checkstyle errors. I think putting a variable name in all caps is a good convention for denoting a constant. Also, adding variables to store which index each regex group corresponds to would not add any clarity to what I do now (though they are marked as magic numbers. I don't support the convention of marking every method as abstract or final because I am fine with someone subclassing my classes and changing their behavior in the future - I don't know more than that future person. 
